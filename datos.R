@@ -1,1 +1,5 @@
 summary(iris)
+
+sumary()
+
+summary()
